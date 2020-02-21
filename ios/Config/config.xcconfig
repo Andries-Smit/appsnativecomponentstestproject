@@ -3,4 +3,4 @@ PRODUCT_BUNDLE_IDENTIFIER = com.mendix.native.nativecomponents
 BUNDLE_DISPLAY_NAME = Native Components
 BUNDLE_IDENTIFIER = com.mendix.native.nativecomponents
 
-RUNTIME_URL = http:\/\/localhost:8080
+RUNTIME_URL = https:\/\/nativecomponentste-sandbox.mxapps.io/
